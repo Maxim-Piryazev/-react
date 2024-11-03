@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Russo+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Kaushan+Script&family=Russo+One&display=swap");
+.capital {
+  color: white;
+  text-align: center;
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+}
+.container {
+  background-color: black;
+  box-shadow: 5px 5px 15px #bf1717, -5px -5px 15px #bf1717;
+  margin: 60px auto;
+}
+.coctailName {
+  color: red;
+  text-align: center;
+  font-family: "Kaushan Script", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+.list {
+  color: white;
+}
+li {
+  color: red;
+}
+.cook {
+  color: white;
+  text-align: center;
+}
+.recipe {
+  color: white;
+  text-align: center;
+}
+.btn {
+  margin: 0 auto;
+  display: block;
+}

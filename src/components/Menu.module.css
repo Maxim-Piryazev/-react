@@ -1,0 +1,11 @@
+.link {
+  color: white;
+}
+.link:hover {
+  color: red;
+}
+.link_center {
+  margin: 0 auto;
+  display: flex;
+  gap: 500px;
+}
